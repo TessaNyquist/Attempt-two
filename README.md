@@ -36,3 +36,5 @@ https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-single-page
 
 
 https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-v2-javascript
+
+
